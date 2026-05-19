@@ -9,10 +9,10 @@ Este proyecto fue desarrollado como parte de la especialización **Python for An
 # 🚀 Demo del Proyecto
 
 ## 🔗 Streamlit Cloud
-(Agregar link cuando despliegues la app)
+https://bank-marketing-app-5vk4sjuugckn8k78khhag8.streamlit.app/
 
 ## 🔗 Repositorio GitHub
-(Agregar link de GitHub)
+https://github.com/JesusOrtizC/Bank-Marketing-APP/edit/main/README.md
 
 ---
 
